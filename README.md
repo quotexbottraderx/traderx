@@ -1,0 +1,2 @@
+# traderx
+quotex bot
